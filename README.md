@@ -15,15 +15,12 @@ The study considers a **two-dimensional flow past a circular cylinder with a jet
 Key parameters used in the simulation:
 
 Reynolds number: Re = 2000
+
 Prandtl number: Pr = 0.71
 
-Cylinder diameter:
+Cylinder diameter: D = 1
 
-D = 1
-
-Uniform background inflow velocity:
-
-U∞ = 0.6
+Uniform background inflow velocity: U∞ = 0.6
 
 The jet is superimposed on the background flow using a **Gaussian velocity profile** at the inlet.
 
